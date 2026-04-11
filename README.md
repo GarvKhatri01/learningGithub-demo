@@ -1,4 +1,4 @@
 # learningGithub-demo
 this is my first git repository
 <br>
-Author-Garv
+Author-Garv Khatri
